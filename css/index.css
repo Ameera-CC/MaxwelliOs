@@ -227,7 +227,7 @@ nav ul li a {
 .service-item img:hover {
     margin: 0px 0px 10px 0px;
     transform: scale(1.1);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6);
+    box-shadow: 0 8px 20px rgba(3, 140, 140, 0.865);
 }
 
 
